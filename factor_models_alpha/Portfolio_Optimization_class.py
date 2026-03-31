@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-For ECON367B Fall 2025 Single Factor Model Exercise
 @author: raiyat
 """
 
