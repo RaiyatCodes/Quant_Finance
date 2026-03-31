@@ -1,2 +1,2 @@
 # Quant_Finance
-Self-driven quantitative and analytical financial projects
+Quantitative and analytical financial projects from coursework
