@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ECON367B Fall 2025 Multifactor Model Excercise
 @author: raiyat
 """
 
